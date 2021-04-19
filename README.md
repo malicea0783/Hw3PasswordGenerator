@@ -14,10 +14,10 @@ the input criteria.
 ### installation
 
 **Visit my page deployed via Github:**
-https://malicea0783.github.io/Hw3PasswordGenerator/
+https://github.com/malicea0783/Password-Generator
 
 **Clone my repo**
-https://github.com/malicea0783/Hw3PasswordGenerator.git
+https://github.com/malicea0783/Password-Generator.git
 
 ![Password Generator screenshot](/assets/images/password_generator.png)
 
