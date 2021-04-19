@@ -1,4 +1,4 @@
-# 03 JavaScript: Password Generator
+# JavaScript: Password Generator
 
 ## Acceptance Criteria
 
@@ -14,7 +14,7 @@ the input criteria.
 ### installation
 
 **Visit my page deployed via Github:**
-https://github.com/malicea0783/Password-Generator
+https://malicea0783.github.io/Password-Generator/
 
 **Clone my repo**
 https://github.com/malicea0783/Password-Generator.git
